@@ -1,0 +1,6 @@
+Package: freetype
+Version: 2.9.1-1
+Depends: zlib, bzip2, libpng
+Architecture: x64-windows
+Multi-Arch: same
+Description: A library to render fonts.

@@ -1,0 +1,7 @@
+
+Name: Graphite2
+Description: Font rendering engine for Complex Scripts
+Version: 3.0.1
+Libs: -LM:/Apps/vcpkg/packages/graphite2_x64-windows/lib -lgraphite2
+Cflags: -IM:/Apps/vcpkg/packages/graphite2_x64-windows/include
+

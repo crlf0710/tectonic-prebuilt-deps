@@ -1,0 +1,26 @@
+Package: harfbuzz
+Version: 2.3.1-3
+Depends: freetype, ragel
+Architecture: x64-windows
+Multi-Arch: same
+Description: HarfBuzz OpenType text shaping engine
+
+Package: harfbuzz
+Feature: graphite2
+Depends: graphite2
+Architecture: x64-windows
+Multi-Arch: same
+Description: Graphite2 shaper support
+
+Package: harfbuzz
+Feature: icu
+Depends: icu
+Architecture: x64-windows
+Multi-Arch: same
+Description: icu support for harfbuzz
+
+Package: harfbuzz
+Feature: ucdn
+Architecture: x64-windows
+Multi-Arch: same
+Description: Builtin (UCDN) Unicode callbacks support

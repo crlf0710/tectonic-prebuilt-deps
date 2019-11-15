@@ -1,0 +1,5 @@
+Package: libiconv
+Version: 1.15-5
+Architecture: x64-windows
+Multi-Arch: same
+Description: GNU Unicode text conversion
